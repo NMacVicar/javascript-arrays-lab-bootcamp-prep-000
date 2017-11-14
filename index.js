@@ -40,5 +40,3 @@ function removeFistKitten(name){
   newKittens.shift(name)
   return newKittens
 }
-
-
